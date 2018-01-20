@@ -1,0 +1,17 @@
+Exercise 1.
+3.The Home controller's About action.
+5.The Home controller calls the About action to display the About Home view. The /Home 
+tells the program to use the Home controller, and /about tells the program to use the About action.
+
+Exercise 2.
+1. The About() ActionResult 
+2. ViewBag.Message = "Your application description page.";
+3. In the Home View folder
+4. The Views/Home/About.cshtml
+
+Exercise 3.
+3. I get a server error because there is no Person view page
+5. By keeping all default settings I created a View called view, which =there is no ActionResult for 
+in the Person controller. This caused the same error as before, but by naming the View Index it created
+a page that displayed the word Index.
+8. I see the information that I told it to display.
