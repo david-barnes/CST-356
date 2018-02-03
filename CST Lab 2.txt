@@ -1,0 +1,17 @@
+Exercise 1
+5d. The DateTime.Now.Year
+5e. The Web server
+
+Exercise 2 
+6. ActionLinks, the model is passed to the view.
+8. Yes because it is in the layout which is share with all views
+9. It causes an error because there is no list page.
+
+Exercise 3
+3. in the model variable
+
+Exercise 4
+1. A new entry with just a number in the years is school field
+2. It returns to the list page with the fields entered filled and defaults years in school to 0 if left empty.
+3. As you did not cover how to do this and I have 0 experience with HTML and HTTP 
+	I was able to keep it on the create page, but I don't know how to fill the text fields with the previous data. 
