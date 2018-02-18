@@ -1,0 +1,46 @@
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\ApplicationInsights.config
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\NUnit3.TestAdapter.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\nunit.engine.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\nunit.engine.api.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\Mono.Cecil.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\Mono.Cecil.Pdb.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\Mono.Cecil.Mdb.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\Mono.Cecil.Rocks.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\Lab 5 Tests.dll.config
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\Lab 5 Tests.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\Lab 5 Tests.pdb
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\CST356 Lab 5.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\FakeItEasy.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\nunit.framework.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.Optimization.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.Mvc.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\EntityFramework.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\SimpleInjector.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\SimpleInjector.Integration.Web.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.WebPages.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.WebPages.Razor.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.Razor.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.WebPages.Deployment.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\CST356 Lab 5.pdb
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\CST356 Lab 5.dll.config
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\FakeItEasy.pdb
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\FakeItEasy.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\nunit.framework.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.Optimization.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.Mvc.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\EntityFramework.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\SimpleInjector.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\SimpleInjector.Integration.Web.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.WebPages.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.WebPages.Razor.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.Razor.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\bin\System.Web.WebPages.Deployment.xml
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\obj\Debug\Lab 5 Tests.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\obj\Debug\Lab 5 Tests.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\obj\Debug\Lab 5 Tests.dll
+C:\Users\David\source\repos\CST356 Lab 5\Lab 5 Tests\obj\Debug\Lab 5 Tests.pdb
