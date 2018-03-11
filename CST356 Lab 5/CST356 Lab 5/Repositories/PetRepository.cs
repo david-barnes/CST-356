@@ -19,9 +19,9 @@ namespace CST356_Lab_5.Repositories
             return _dbContext.Pets.Find(id);
         }
 
-        public IEnumerable<Pet> GetPetsForUser(int userId)
+        public IEnumerable<Pet> GetPetsForUser()
         {
-            return _dbContext.Pets.Where(pet => pet.UserId == userId).ToList();
+            return _dbContext.Pets;
         }
 
         public void SavePet(Pet pet)

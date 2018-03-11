@@ -27,7 +27,7 @@ namespace CST356_Lab_5.Services
         {
             var petViewModels = new List<PetViewModel>();
 
-            var pets = _repository.GetPetsForUser(userId);
+            var pets = _repository.GetPetsForUser();
 
             foreach (var pet in pets)
             {
