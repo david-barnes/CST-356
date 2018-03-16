@@ -24,7 +24,7 @@ namespace CST356_Lab_3.Models.View
 
         [Required]
         [Display(Name = "DOB")]
-        public DateTime DOB { get; set; }
+        public DateTime DateOfBirth { get; set; }
 
         [Required]
         [Display(Name = "Years in School")]

@@ -142,7 +142,7 @@ namespace CST356_Lab_3.Controllers
                 MiddleName = userViewModel.MiddleName,
                 LastName = userViewModel.LastName,
                 EmailAddress = userViewModel.EmailAddress,
-                DateOfBirth = userViewModel.DOB,
+                DateOfBirth = userViewModel.DateOfBirth,
                 YearsInSchool = userViewModel.YearsInSchool
             };
         }
@@ -156,7 +156,7 @@ namespace CST356_Lab_3.Controllers
                 MiddleName = user.MiddleName,
                 LastName = user.LastName,
                 EmailAddress = user.EmailAddress,
-                DOB = user.DateOfBirth,
+                DateOfBirth = user.DateOfBirth,
                 YearsInSchool = user.YearsInSchool
             };
         }
@@ -167,7 +167,7 @@ namespace CST356_Lab_3.Controllers
             user.MiddleName = userViewModel.MiddleName;
             user.LastName = userViewModel.LastName;
             user.EmailAddress = userViewModel.EmailAddress;
-            user.DateOfBirth = userViewModel.DOB;
+            user.DateOfBirth = userViewModel.DateOfBirth;
             user.YearsInSchool = userViewModel.YearsInSchool;
         }
     }
