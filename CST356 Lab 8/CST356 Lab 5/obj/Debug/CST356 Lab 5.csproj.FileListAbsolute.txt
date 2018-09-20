@@ -158,6 +158,7 @@ C:\Users\David\Documents\GitHub\CST-356\CST356 Lab 8\CST356 Lab 5\bin\Microsoft.
 C:\Users\David\Documents\GitHub\CST-356\CST356 Lab 8\CST356 Lab 5\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\David\Documents\GitHub\CST-356\CST356 Lab 8\CST356 Lab 5\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\David\Documents\GitHub\CST-356\CST356 Lab 8\CST356 Lab 5\bin\Microsoft.AI.Web.xml
+C:\Users\David\Documents\GitHub\CST-356\CST356 Lab 8\CST356 Lab 5\obj\Debug\CST356 Lab 5.csprojResolveAssemblyReference.cache
 C:\Users\David\Documents\GitHub\CST-356\CST356 Lab 8\CST356 Lab 5\obj\Debug\CST356 Lab 5.csproj.CoreCompileInputs.cache
 C:\Users\David\Documents\GitHub\CST-356\CST356 Lab 8\CST356 Lab 5\obj\Debug\CST356 Lab 5.dll
 C:\Users\David\Documents\GitHub\CST-356\CST356 Lab 8\CST356 Lab 5\obj\Debug\CST356 Lab 5.pdb
